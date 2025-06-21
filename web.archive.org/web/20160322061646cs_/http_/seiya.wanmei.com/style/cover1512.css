@@ -1,0 +1,211 @@
+/* public */
+html,body,form,ol,ul,li,div,p,dl,dt,dd,h1,h2,h3,h4,h5,h6,table,th,td,font,em,ins,span,a{margin:0; padding:0;}
+h1,h2,h3,h4,h5,h6,button,input,select,textarea{font-size:100%;font-weight:normal}
+html{_filter:expression(document.execCommand("BackgroundImageCache",false,true));}
+body{ overflow-x:hidden;}
+ul,li,div,dl,dt,dd{list-style:none;}
+h1.wm-public{height:0px; line-height:0px; font-size:0px;}
+a{text-decoration:none;cursor:pointer;}
+a{blr:expression(this.onFocus=this.blur());outline:none;}
+img{border:0;}
+font,em{font-style:normal; font-family:\5b8b\4f53;}
+label{vertical-align:middle; font-family:tahoma;}
+textarea,input{resize:none; outline:none;}
+textarea{overflow:auto;}
+ins{float:right; text-decoration:none; font-weight:normal;}
+.pub_wsp{word-wrap:break-word; word-break:break-all;}
+.pub_abso{vertical-align:middle;}
+.pub_clr{clear:both;font-size:0;height:0;line-height:0;overflow:hidden;}
+.pub_yh{font-family:"Microsoft YaHei";}
+.none{display:none;}
+body{background:none; font-size:12px; font-family:Verdana,Geneva,sans-serif,\5b8b\4f53;}
+#header,#main,#footer{margin:0 auto; width:1002px;}
+#content,#sharediv{min-width:1192px; width:100%; width:expression((documentElement.clientWidth < 1192) ? "1192px" : "100%" );}
+
+/* page for system */
+.page{height:30px; line-height:30px; text-align:center; background:#3c2b25; font-family:"宋体",Simsun;}
+.page,.page a{color:#dec99f;}
+.page a:hover{color:#ff4e00;}
+.page a,.page span{padding:0 5px;}
+.page .current{color:#ff4e00; font-weight:bold;}
+.page .prev,.page .next{color:#dec99f; font-weight:normal;}
+
+/* page for cms */
+.paging { height: 20px; line-height: 20px; text-align: center; padding-top: 20px; color:#8a7d99;}
+.paging a{ display: inline-block; width: 20px; line-height: 20px; text-align: center; color: #8a7d99; background-color: #1b1428; }
+.paging td.nlist font { color: #f8a700; }
+
+/* share */
+#sharediv{background:#000; height:32px; padding-top:2px;}
+#share_line{width:1002px; height:25px; margin:0 auto; background:none !important; overflow:hidden;}
+#share_line,#share_line a{color:#FFF !important;}
+#share_line a:hover{color:#FF0 !important; text-decoration:underline;}
+
+
+#top { height: 40px; text-align: center; background: #000;}
+.wrap { background:url(../../../../20160309201641im_/http_/seiya.wanmei.com/images/cover1509/cover1512_bg.jpg) no-repeat center top; width:100%; position:relative; z-index:5;}
+.wrap1 {background:url(../../../../20160210110944im_/http_/seiya.wanmei.com/images/cover1509/bg2.jpg) no-repeat center top; width:100%; position:relative; z-index:4;}
+.wrap2 {background:url(../../../../20160210110945im_/http_/seiya.wanmei.com/images/cover1509/bg3.jpg) no-repeat center top; width:100%; position:relative; z-index:3;}
+.wrap3 {background:url(../../../../20160210110945im_/http_/seiya.wanmei.com/images/cover1509/bg4.jpg) no-repeat center top; width:100%; position:relative; z-index:2;}
+.wrap4 {background:url(../../../../20160210110945im_/http_/seiya.wanmei.com/images/cover1509/bg5.jpg) no-repeat center top; width:100%; position:relative; z-index:1;}
+
+.topContent { width:1192px; margin:0 auto; position:relative; height:735px; z-index:99;}
+.qdyxBtn { width:167px; height:44px; display:block; position:absolute; top:268px; left:525px; background:url(../../../../20160309191546im_/http_/seiya.wanmei.com/images/cover1509/go_btn.jpg) no-repeat; }
+.downBtn { width:167px; height:44px; display:block; position:absolute; top:268px; left:703px; background:url(../../../../20160309223127im_/http_/seiya.wanmei.com/images/cover1509/down_btn.jpg) no-repeat;}
+.qdyxBtn:hover,.downBtn:hover{ background-position:0 -44px; }
+/**/
+.video_plus{ position:absolute; width:228px; height:130px; left:955px; top:183px; }
+.vbtn{ position:absolute; width:228px; height:130px; left:0; top:0; }
+/*video弹框*/
+.pop_topvideo{background:#000;display:none;width:800px;height:500px;}
+.closeBtn{background:url(../../../../20160309192511im_/http_/zxsj.wanmei.com/images/main150608/close.png) no-repeat; width:63px; height:63px; position:absolute; right:-63px; top:0; cursor:pointer; display:block;}
+.part1{ position:absolute; width:314px; height:318px; background:url(../../../../20160309192338im_/http_/seiya.wanmei.com/images/cover1509/part1.jpg) no-repeat; left:97px; top:384px; }
+.part2{ position:absolute; width:293px; height:260px; background:url(../../../../20160309224556im_/http_/seiya.wanmei.com/images/cover1509/part2.jpg) no-repeat; left:411px; top:385px; padding-top:57px; }
+.part2on{ background:url(../../../../20160309195527im_/http_/seiya.wanmei.com/images/cover1509/part2_click.jpg) no-repeat; }
+.part3{ position:absolute; width:244px; height:318px; background:url(../../../../20160309223152im_/http_/seiya.wanmei.com/images/cover1509/part3.jpg) no-repeat; left:704px; top:384px; }
+.part4{ position:absolute; width:243px; height:318px; background:url(../../../../20160309222828im_/http_/seiya.wanmei.com/images/cover1509/part4.jpg) no-repeat; left:948px; top:384px; display:block;}
+.lcHide{display:none;}
+.lbNumx{ font:normal 20px "微软雅黑"; color:#5f6e7b; padding:27px 0 0 47px; position:absolute; left:0; top:0; }
+.lbBtns{ position:absolute; left:25px; top:264px; }
+.lbName{  font:normal 16px "微软雅黑"; color:#5f6e7b; padding:30px 0 0 47px; position:absolute; left:0; top:0;}
+.lbNumber{ position:absolute; left:3px; top:250px; }
+.lbNumber span{ font:normal 16px "微软雅黑"; color:#5f6e7b; padding:0 5px; }
+.lbNumber p{ background:#b19b5d; height:34px; color:#fff; font:normal 12px "宋体";  padding:5px; }
+#fastreg_box{ width:293px; height:260px; }
+.btnp_down,.btnp_arc{ position:absolute; text-indent:-9999px; background:url(https://web.archive.org/web/20160322061646im_/about:blank); width:106px; height:36px; top:66px;  }
+.btnp_down{ left:11px; }
+.btnp_arc{ left:128px; }
+
+.stepBox { background:url(../../../../20160210110949im_/http_/seiya.wanmei.com/images/cover1509/stepBar.png) no-repeat 0 0; width:903px; height:214px; position:absolute; top:320px; left:287px;}
+.stepBox .zcBtn { background:url(../../../../20160210110950im_/http_/seiya.wanmei.com/images/cover1509/zczh.png) no-repeat 0 0; display:block; width:366px; height:33px; position:absolute; top:171px; left:13px;}
+.stepBox .zcBtn:hover { background-position:0 -33px;}
+.lqBtn { background:url(../../../../20160210110950im_/http_/seiya.wanmei.com/images/cover1509/lqlb.png) no-repeat 0 0; display:block; width:366px; height:33px; text-indent:-9999px; }
+.lqBtn:hover { background-position:0 -33px;}
+/*.stepBox .qdBtn { background:url(/web/20160322061646im_/http://seiya.wanmei.com/images/cover1509/qdyx.png) no-repeat 0 0; display:block; width:366px; height:33px; position:absolute; top:25px; left:264px;}*/
+.stepBox .qdBtn:hover { background-position:0 -33px; }
+.videoBox { width:597px; height:339px; background-color:#000; position:absolute; top:548px; left:287px;}
+.regBox { background:url(../../../../20160210110950im_/http_/seiya.wanmei.com/images/cover1509/regBox.jpg) no-repeat; width:293px; height:339px; position:absolute; top:548px; left:899px; cursor:pointer;}
+
+.jobContent{ width:1192px; margin:0 auto; position:relative; height:605px; z-index:99;}
+.jobNav{ width:483px; border-bottom:1px solid #8b959e; height:28px; position:absolute; top:129px; left:18px;}
+.jobNav a{ width:36px; height:24px; font-size:16px; color:#8b959e; margin-right:26px; text-align:center; float:left;}
+.jobNav a:hover,.jobNav a.on{ color:#9e9353; border-bottom:4px solid #9e9353;}
+.jobBg{ background-repeat:no-repeat; background-position:center top; width:100%; height:605px; position:absolute; left:0; top:0; z-index:9;}
+.jobVideo{ width:200px; height:113px; position:absolute; left:18px; top:375px;}
+#jobBg_0{ background-image:url(../../../../20160210110951im_/http_/seiya.wanmei.com/images/cover1509/job1.png);}
+#jobBg_1{ background-image:url(../../../../20160210110953im_/http_/seiya.wanmei.com/images/cover1509/job2.png);}
+#jobBg_2{ background-image:url(../../../../20160210111000im_/http_/seiya.wanmei.com/images/cover1509/job3.png);}
+#jobBg_3{ background-image:url(../../../../20160210111007im_/http_/seiya.wanmei.com/images/cover1509/job4.png);}
+#jobBg_4{ background-image:url(../../../../20160210111011im_/http_/seiya.wanmei.com/images/cover1509/job5.png);}
+#jobBg_5{ background-image:url(../../../../20160210111013im_/http_/seiya.wanmei.com/images/cover1509/job6.png);}
+#jobBg_6{ background-image:url(../../../../20160210111017im_/http_/seiya.wanmei.com/images/cover1509/job7.png);}
+#jobBg_7{ background-image:url(../../../../20160210111019im_/http_/seiya.wanmei.com/images/cover1509/job8.png);}
+.knowmore{ background:url(../../../../20160210111020im_/http_/seiya.wanmei.com/images/cover1509/knowmore.png) no-repeat; width:165px; height:38px; display:block; position:absolute; right:8px; bottom:45px;}
+.knowmore:hover{ background-position:0 -38px;}
+
+.hdContent{ width:1192px; margin:0 auto; position:relative; height:701px;}
+.hdContent ul{ padding-top:140px;}
+.hdContent ul li { width:240px; float:left; text-align:center; padding-top:50px; margin-right:76px;}
+.hdContent ul li img{}
+.hdContent ul li h2{ color:#998233; font-size:24px; line-height:2.5; font-family:"微软雅黑" !important; font-weight:bold !important;}
+.hdContent ul li p{ text-align:left; text-indent:2em; line-height:1.8; color:#969fa8; padding:0 15px; height:130px;}
+.hdContent ul li a{ background:url(../../../../20160210111021im_/http_/seiya.wanmei.com/images/cover1509/hdBtn.png) no-repeat 0 -36px; width:140px; height:36px; display:block; margin:0 auto;}
+.hdContent ul li a:hover{ background:url(../../../../20160210111021im_/http_/seiya.wanmei.com/images/cover1509/hdBtn.png) no-repeat;}
+
+
+.bottomContent {width:1192px; margin:0 auto; position:relative; height:703px;}
+
+.jdContent{ width:1192px; margin:0 auto; position:relative; height:776px;}
+.jdContent a{ width:287px; height:527px; margin:157px 14px 0 0; float:left; display:block;}
+.jdContent a.jd1{ background:url(../../../../20160210111021im_/http_/seiya.wanmei.com/images/cover1509/jd1.jpg) no-repeat;}
+.jdContent a.jd1:hover{ background:url(../../../../20160210111021im_/http_/seiya.wanmei.com/images/cover1509/jd1h.jpg) no-repeat;}
+.jdContent a.jd2{ background:url(../../../../20160210111022im_/http_/seiya.wanmei.com/images/cover1509/jd2.jpg) no-repeat;}
+.jdContent a.jd2:hover{ background:url(../../../../20160210111022im_/http_/seiya.wanmei.com/images/cover1509/jd2h.jpg) no-repeat;}
+.jdContent a.jd3{ background:url(../../../../20160210111022im_/http_/seiya.wanmei.com/images/cover1509/jd3.jpg) no-repeat;}
+.jdContent a.jd3:hover{ background:url(../../../../20160210111022im_/http_/seiya.wanmei.com/images/cover1509/jd3h.jpg) no-repeat;}
+.jdContent a.jd4{ background:url(../../../../20160210111023im_/http_/seiya.wanmei.com/images/cover1509/jd4.jpg) no-repeat; margin-right:0;}
+.jdContent a.jd4:hover{ background:url(../../../../20160210111023im_/http_/seiya.wanmei.com/images/cover1509/jd4h.jpg) no-repeat;}
+
+#footer {height: 140px;text-align: center;background: #161616; width:100%;}
+.imgBox { padding-top:115px;}
+.imgNav a{ display:block; width:297px; height:55px; float:left; font-size:26px; text-align:center; color:#FFF; line-height:55px; background-color:#324250; margin-right:1px;}
+.imgNav a:hover { background-color:#998233;}
+.imgNav a.on{ background-color:#998233;}
+
+.thumBox {}
+.thumBox .thumItem { width:1191px; height:452px; position:relative; overflow:hidden;}
+.thumBox .thumItem img { width:1191px; height:452px;}
+.thumBox .thumItem .desBox {position:absolute; top:218px; left:70px;}
+.thumBox .thumItem p{ font-size:18px; color:#5d6a76; text-indent:36px; }
+.thumBox .thumItem .moreBtn { display:block; width:165px; height:38px; background:url(../../../../20160210111023im_/http_/seiya.wanmei.com/images/cover1509/ljgdBtn.png) no-repeat 0 0; position:absolute; left:70px; top:375px;}
+
+#thumImg1,#thumImg2,#thumImg3 { display:none;}
+
+.sliderBox { position:fixed; top:50%; margin-top:-228px; right:0; z-index:999999;}
+.sliderBox .lqlbBtn{ display:block; width:171px; height:53px; background:url(../../../../20160210111024im_/http_/event51.wanmei.com/seiya/201509/internet/images/lqlbBtnImg.jpg) no-repeat 0 0;}
+.sliderBox .siderBox{ background:url(../../../../20160210111024im_/http_/seiya.wanmei.com/images/cover1509/siderBox.jpg) no-repeat; width:171px; height:37px; display:block;}
+.sliderBox .siderBox1{ background-position:0 0;}
+.sliderBox .siderBox1:hover{ background-position:-171px 0;}
+.sliderBox .siderBox2{ background-position:0 -37px;}
+.sliderBox .siderBox2:hover{ background-position:-171px -37px;}
+.sliderBox .siderBox3{ background-position:0 -75px;}
+.sliderBox .siderBox3:hover{ background-position:-171px -75px;}
+.sliderBox .siderBox4{ background-position:0 -113px;}
+.sliderBox .siderBox4:hover{ background-position:-171px -113px;}
+.sliderBox .lqlbBtn:hover { background-position:0 -53px;}
+
+#scroll1,#scroll2,#scroll3,#scroll4{ position:absolute; }
+#scroll1{ top:1047px;}
+#scroll2{ top:1652px;}
+#scroll3{ top:2355px;}
+#scroll4{ top:3056px;}
+
+
+.pop{width:850px;height:573px; position:relative;display:none;}
+.pop_nav{width:850px;height:46px;line-height:46px;text-align:center;clear:both;}
+.pop_nav a{width:139px;height:46px;display:block;font-size:20px;color:#fff;background-color:#998233; border-radius:10px 10px 0 0;float:left;margin-right:6px;}
+.pop_nav a.on{background-color:#fff;color:#474f59;}
+.pop_content{width:850px;height:440px;background:#fff;}
+.pop_left{width:517px;height:410px;float:left;padding:30px 0 0 40px;color:#474f59;display:none;}
+.pop_left strong{font-size:20px;}
+.pop_left p{clear:both;display:block;width:495px;}
+.pop_left ul,.pop_btn{display:block;width:497px;border-top:1px dotted #474f59;margin-top:10px;padding:10px 0;clear:both;height:90px;text-align:center;}
+.pop_btn{border-bottom:1px dotted #474f59;height:80px;}
+.pop_left li{display:block;width:74px;height:86px;float:left;margin-right:25px;background:#e1e6eb;text-align:center;position:relative;padding-top:9px;}
+.txt{width:74px;height:21px;background:#474f59;line-height:21px; position:absolute;bottom:0;left:0;color:#fff;}
+.red{color:#f2531c;}
+.dhm,.dhm_txt{width:148px;height:38px;text-align:center;line-height:38px;color:#fff;font-size:18px;background:#474f59;margin:20px 0 0;overflow:hidden;float:left;}
+.dhm_txt{width:322px;background:#e1e6eb;color:#474f59;}
+.bottom_txt{padding-top:20px;text-align:center;}
+.pop_right{width:293px;height:380px;background:url(../../../../20160422211808im_/http_/event51.wanmei.com/seiya/201509/internet/images/right.jpg) no-repeat;float:left;padding-top:60px;}
+.btn_down,.btn_arc{width:123px;height:43px;display:block;background:#131921;line-height:43px;text-align:center;font-size:16px;color:#fff;float:left;margin:20px 0 0 20px;border-radius:5px;}
+.btn_arc{margin-left:10px;}
+.btn_down:hover,.btn_arc:hover{background:#1f2935;}
+.close{ position:absolute;top:49px;right:-33px;cursor:pointer;}
+.boxy-modal-blackout{opacity: 0.7!important;}
+.jiantou{ position:absolute;top:0;left:0; z-index:999;display:none;}
+.pop_title{width:508px;height:47px;line-height:47px;font-size:20px; font-weight:bold;border-bottom:1px dotted #474f59;margin-bottom:10px;color:#474f59;}
+.tit_down{font-size:18px;font-weight:bold;color:#fff;padding-left:20px;}
+
+.nextScreen{ background:url(../../../../20160210111024im_/http_/seiya.wanmei.com/images/cover1509/next_btn.png) no-repeat; width:43px; height:50px; position:absolute; bottom:-25px; right:-43px; cursor:pointer;}
+.upScreen{ background:url(../../../../20160210111025im_/http_/seiya.wanmei.com/images/cover1509/top_btn.png) no-repeat; width:43px; height:50px; position:absolute; bottom:25px; right:-43px; cursor:pointer;}
+/*
+     FILE ARCHIVED ON 06:16:46 Mar 22, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:34:20 Jun 21, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.812
+  exclusion.robots: 0.03
+  exclusion.robots.policy: 0.013
+  esindex: 0.015
+  cdx.remote: 28.403
+  LoadShardBlock: 262.975 (3)
+  PetaboxLoader3.datanode: 64.417 (4)
+  PetaboxLoader3.resolve: 159.726 (2)
+  load_resource: 89.896
+*/

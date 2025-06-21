@@ -1,0 +1,355 @@
+								<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from seiya.wanmei.com/info/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 21 Jun 2025 17:19:15 GMT -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="author" content="Design:.; Web Layout:SheRuixu" />
+<meta name="description" content="《圣斗士星矢Online》世界瞩目！完美世界首部动漫改编网游！星矢再临！黄金圣衣再现！燃烧吧，我的小宇宙！ " />
+<meta name="keywords" content="圣斗士,圣斗士星矢,Saintseiya,seiya,SEGA，星矢,12黄金圣斗士,星座,12宫,沙加,紫龙,一辉,冰河,下载,圣斗士星矢Online,完美世界,天马座的幻想,圣衣神话,希腊神话,冥王,海王,热血,动漫,动画,网游,网络游戏，集英社，东映，世嘉，"/>
+<title>《圣斗士星矢》官网 - 原著正版授权，车田正美全程监制，媲美漫画、动画片-完美世界2013年全球合作精品3D网游力作！</title>
+<link rel="stylesheet" type="text/css" href="../style/data0608.css" />
+<script type="text/javascript" src="../../www.wanmei.com/public/js/wm.js"  bottom="false"></script>
+<script type="text/javascript" src="../../www.wanmei.com/public/js/jq_171.js"></script>
+</head>
+<body>
+<div class="header_wrap">
+  <div class="w1002">
+    <iframe src="../head.html" width="1002" height="40" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
+  </div>
+</div>
+<div class="wrap">
+  <div class="main_outer main_div1">
+    <div class="main_div2">
+      <div class="main_div3">
+        <div class="head_slogn">
+          <div class="wm-public" logo="{name:'seiya',skin:4,left:0,top:0}"></div>
+        </div>
+        <div class="main_inner"> 
+          <div class="main_content">
+            <div class="zhidao_search">
+    <div class="search_text">
+        <form action="http://www.17y.com/zhidao/sr" target="_blank" onsubmit="return submitHandle()">
+            <input type="text" name="s" class="search_input" id="search_input" placeholder="搜索问题" autocomplete="off" />
+            <input type="submit" class="search_btn" value="">
+        </form>
+        <div class="search_dialog" id="search_dialog" style="display: none;">
+            <!--<div class="search_dialog_item search_dialog_a clearfix">
+                <div class="search_dialog_item_l01">1</div>
+                <div class="search_dialog_item_l02"><a href="q?qid=44" target="_blank">什么是<em>圣斗士</em>领土战？</a></div>
+            </div>
+            <div class="search_dialog_item search_dialog_q clearfix">
+                <div class="search_dialog_item_l01">1</div>
+                <div class="search_dialog_item_l02"><a href="q?qid=44" target="_blank">什么是<em>圣斗士</em>领土战？</a></div>
+            </div>
+            <div class="search_dialog_item_more"><a href="http://www.17y.com/zhidao/sr?s=%E5%9C%A3%E6%96%97%E5%A3%AB" target="_blank">查看全部搜索结果</a></div>-->
+        </div>
+    </div>
+    <a href="http://www.17y.com/zhidao/askq" target="_blank" class="tw_btn"></a>
+    <a href="http://www.17y.com/zhidao/" target="_blank" class="zd_btn"></a>
+</div>
+<script src="../../www.wanmei.com/public/js/modules/placeholder/jquery.placeholder.js"></script>
+<script>
+    $('.search_input').placeholder({ labelMode: true })
+    function submitHandle() {
+        var $kw = $('.search_input');
+        var kw = $.trim($kw.val());
+        if (kw == "") {
+            alert('请输入您感兴趣的问题。');
+            return false;
+        } else {
+            $('.search_text form').submit();
+        }
+    }
+    $(function () {
+        if ($.browser.msie) {
+            $("#search_input").live("propertychange", function () {
+                if ($(this).val() != "搜索问题" && $(this).val().trim().length > 0) {
+                    $("#search_dialog").show();
+                }
+            });
+        }
+        else {
+            $("#search_input").live("input", function () {
+                if ($(this).val() != "搜索问题" && $(this).val().trim().length > 0) {
+                    //$("#search_dialog").show();
+                    $.ajax({
+                        type: "GET",
+                        url: "http://www.17y.com/zhidao/searchbrief",
+                        data: "callback=111111&search=" + encodeURIComponent($(this).val()),
+                        dataType: "jsonp",
+                        jsonp: "callback",
+                        jsonpCallback: "showSearch",
+                        success: function (msg) {
+                            var str = "";
+                            $.each(msg.found, function (i, n) {
+                                if (n.status == 1) {
+                                    str += '<div class="search_dialog_item search_dialog_q clearfix">';
+                                }
+                                else {
+                                    str += '<div class="search_dialog_item search_dialog_a clearfix">';
+                                }
+                                str += '<div class="search_dialog_item_l01">' + n.reward + '</div>';
+                                str += '<div class="search_dialog_item_l02"><a href="http://www.17y.com/zhidao/q?qid=' + n.qid + '" target="_blank">' + n.question + '</a></div>';
+                                str += '</div>';
+                            });
+                            str += '<div class="search_dialog_item_more"><a href="http://www.17y.com/zhidao/sr?s=' + encodeURIComponent($("#search_input").val()) + '" target="_blank">查看全部搜索结果</a></div>';
+                            $("#search_dialog").html(str).show();
+                            $("#search_dialog > div.search_dialog_item").hover(function () {
+                                $(this).addClass("search_dialog_item_h");
+                            }, function () {
+                                $(this).removeClass("search_dialog_item_h");
+                            });
+                        }
+                    });
+                    //$.post("http://www.17y.com/zhidao/searchbrief", { "search": encodeURIComponent($(this).val()) }, function (msg) {
+                    //    alert(msg);
+                    //}, "json");
+                    //$.getJSON("http://www.17y.com/zhidao/searchbrief", { search: $(this).val() }, function (data) {
+                    //    alert("Data Loaded: " + data);
+                    //});
+                }
+            });
+        }
+        $("#search_input").focus(function () {
+            if ($(this).val() != "搜索问题" && $(this).val().trim().length > 0) {
+                $("#search_dialog").show();
+            }
+        });
+        $("#search_input").blur(function () {
+            setTimeout(function () { $("#search_dialog").hide(); }, 500);
+        });
+        function showSearch() {
+            alert();
+        }
+    });
+</script>
+
+              <div class="details_main">
+    <div class="insides_nav">
+        <center><a href="#p1">游戏介绍</a>
+        <a href="#p2">新手资料</a>
+        <a href="#p3">系统介绍</a>
+        <a href="#p4">特色玩法</a>
+        </center>
+    </div>
+    <div class="info_btn">
+        <ul>
+            <li class="btn1"><a href="zhiye/indexb277.html?t=3" target="_blank"></a></li>
+            <li class="btn2"><a href="zhiye/indexb73c.html?t=1" target="_blank"></a></li>
+            <li class="btn3"><a href="zhiye/index3e8f.html?t=0" target="_blank"></a></li>
+            <li class="btn4"><a href="zhiye/indexb0af.html?t=2" target="_blank"></a></li>
+            <li class="btn5"><a href="zhiye/indexa549.html?t=4" target="_blank"></a></li>
+        </ul>
+  </div>
+  <div class="info_box">
+    <h2 name="p0" id="p0">最新内容</h2>
+    <div class="line_border">
+    <table cellpadding="0" cellspacing="0" border="0">
+      <tr>
+        <th><label>最新内容：</label></th>
+        <td>		<a href="special/20131014/151607.html" target="_blank">表情动作简介</a>		<a href="special/20131014/151608.html" target="_blank">天枰座活动简介</a>
+		<a href="special/20131010/151346.html" target="_blank">“银河争霸赛”多星域对战详解</a>
+        <a href="system/20130912/150250.html" target="_blank">观星系统简介</a>
+        <a href="system/20130912/150251.html" target="_blank">好友情谊技介绍</a>
+        <a href="copy/20130912/150252.html" target="_blank">混沌战场</a>
+        <a href="system/20130912/150253.html" target="_blank">披风的获取及升阶</a>
+        <a href="system/20130912/150254.html" target="_blank">圣衣冥化玩法</a>
+        <a href="system/20130912/150255.html" target="_blank">师徒系统</a>
+        <a href="system/20130912/150256.html" target="_blank">星空推演之银河争霸赛</a>
+        <a href="special/20130912/150257.html" target="_blank">觉醒！沙加的六道</a>
+        <a href="special/20130912/150258.html" target="_blank">桂花酒的幻想</a>
+        <a href="special/20130912/150259.html" target="_blank">中秋夜！月饼大爆炸</a>
+        <a href="system/20130913/150329.html" target="_blank">全新时装上架</a>
+        <a href="system/20130913/150327.html" target="_blank">全新高阶白银圣衣亮相</a>
+        <a href="system/20130913/150326.html" target="_blank">免费获得限量永久坐骑</a>
+
+        <a href="gamejs/20130819/148772.html" target="_blank">鲜花排行榜奖励</a>
+        <a href="gamejs/20130819/148773.html" target="_blank">商城新增发型及面部</a>
+        <a href="gamejs/20130819/148777.html" target="_blank">军团奇迹宣战</a>
+        <a href="gamejs/20130819/148778.html" target="_blank">寻宝天行开启</a>
+        <a href="system/20130813/148437.html" target="_blank">爱情鉴证大奖及全新坐骑</a>
+        <a href="system/20130813/148438.html" target="_blank">宠物一键拾取</a>
+        <a href="system/20130813/148439.html" target="_blank">经验星魂兑换</a>
+        <a href="system/20130813/148441.html" target="_blank">七夕活动介绍</a>
+        <a href="system/20130813/148443.html" target="_blank">新装备兑换</a>
+        </td>
+      </tr>
+    </table>
+    </div>
+
+    <h2 name="p0" id="p0">核心玩法</h2>
+    <div class="line_border">
+    <table cellpadding="0" cellspacing="0" border="0">
+      <tr>
+        <th><label>核心玩法：</label></th>
+        <td><a href="special/20130709/146612.html" target="_blank">风暴！亚特兰蒂斯</a>
+        <a href="special/20130309/141419.html" target="_blank">集结！十二宫危机</a>
+        <a href="special/20130309/141416.html" target="_blank">危机！女神近卫军</a>
+        <a href="special/20130309/141418.html" target="_blank">圣战回忆</a>
+        <a href="special/20130709/146621.html" target="_blank">十风穴</a></td>
+      </tr>
+    </table>
+    </div>
+    <h2 name="p1" id="p1">游戏介绍</h2>
+    <div class="line_border">
+    <table cellpadding="0" cellspacing="0" border="0">
+      <tr>
+        <th><label>背景故事：</label></th>
+        <td><a href="gamejs/20130308/141325.html" target="_blank">背景故事</a></td>
+      </tr>
+      <tr>
+        <th><label>守护星座：</label></th>
+        <td><a href="zhiye/index3e8f.html?t=0" target="_blank">天马座</a>
+          <a href="zhiye/indexb73c.html?t=1" target="_blank">天龙座</a>
+          <a href="zhiye/indexb0af.html?t=2" target="_blank">白鸟座</a>
+          <a href="zhiye/indexb277.html?t=3" target="_blank">仙女座</a>
+          <a href="zhiye/indexa549.html?t=4" target="_blank">凤凰座</a></td>
+      </tr>
+      <tr>
+        <th valign="top"><label>游戏特色：</label></th>
+        <td><a href="gamejs/20130313/141572.html" target="_blank">燃烧生命</a>
+          <a href="gamejs/20130313/141573.html" target="_blank">重温情节</a>
+          <a href="gamejs/20130313/141574.html" target="_blank">重叠画面</a>
+          <a href="gamejs/20130313/141575.html" target="_blank">重现奥义</a>
+          <a href="gamejs/20130313/141576.html" target="_blank">穿着梦想</a>
+          <a href="gamejs/20130313/141577.html" target="_blank">成就传奇</a>
+          <a href="gamejs/20130309/141360.html" target="_blank">震撼音效</a>
+          <a href="gamejs/20130313/141578.html" target="_blank">触摸质感</a>
+          <a href="gamejs/20130313/141579.html" target="_blank">感受真实</a>
+          <a href="gamejs/20130309/141363.html" target="_blank">逆天默契</a>
+          <a href="gamejs/20130309/141367.html" target="_blank">多维互动</a></td>
+      </tr>
+    </table>
+    </div>
+
+    <h2 name="p2" id="p2">新手资料</h2>
+    <div class="line_border">
+    <table cellpadding="0" cellspacing="0" border="0">
+      <tr>
+        <th><label>玩家指南：</label></th>
+        <td><a href="noviceinfo/20130309/141369.html" target="_blank">配置需求</a>
+          <a href="noviceinfo/20130309/141371.html" target="_blank">下载说明</a>
+          <a href="noviceinfo/20130309/141374.html" target="_blank">安装指南</a>
+          <a href="noviceinfo/20130309/141379.html" target="_blank">角色创建</a>
+          <a href="noviceinfo/20130309/141381.html" target="_blank">操作指南</a>
+          <a href="noviceinfo/20130309/141385.html" target="_blank">界面介绍</a></td>
+      </tr>
+      <tr>
+        <th valign="top"><label>新手指引：</label></th>
+        <td><a href="noviceinfo/20130309/141390.html" target="_blank">第一个任务</a>
+          <a href="noviceinfo/20130309/141391.html" target="_blank">第一个技能</a>
+          <a href="noviceinfo/20130309/141392.html" target="_blank">第一次组队</a>
+          <a href="noviceinfo/20130309/141393.html" target="_blank">第一个好友</a>
+          <a href="noviceinfo/20130309/141394.html" target="_blank">第一次交易</a>
+          <a href="noviceinfo/20130309/141395.html" target="_blank">第一次聚能</a>
+          <a href="noviceinfo/20130309/141396.html" target="_blank">第一次爆发小宇宙</a>
+          <a href="noviceinfo/20130309/141397.html" target="_blank">第一次逛拍卖行</a>
+          <a href="noviceinfo/20130309/141398.html" target="_blank">第一次获得圣衣</a></td>
+      </tr>
+    </table>
+    </div>
+    <h2 name="p3" id="p3">系统介绍</h2>
+    <div class="line_border">
+    <table cellpadding="0" cellspacing="0" border="0">
+      <tr>
+        <th valign="top"><label>系统介绍：</label></th>
+        <td>
+            <a href="system/20130309/141421.html" target="_blank">称号系统</a>
+            <a href="system/20130309/141422.html" target="_blank">成就系统</a>
+            <a href="system/20130309/141423.html" target="_blank">成长体系</a>
+            <a href="system/20130309/141425.html" target="_blank">老带新玩法</a>
+            <a href="system/20130309/141426.html" target="_blank">魔盒系统</a>
+            <a href="system/20130309/141427.html" target="_blank">声望系统</a>
+            <a href="system/20130309/141429.html" target="_blank">图鉴系统</a>
+            <a href="system/20130309/141430.html" target="_blank">装备系统</a>
+          </td>
+      </tr>
+    </table>
+    </div>
+    <h2 name="p4" id="p4">特色玩法</h2>
+    <div class="line_border">
+    <table cellpadding="0" cellspacing="0" border="0">
+      <tr>
+        <th><label>圣衣玩法：</label></th>
+        <td><a href="special/20130309/141399.html" target="_blank">圣衣基础</a>
+          <a href="special/20130309/141400.html" target="_blank">圣衣星铸</a></td>
+      </tr>
+      <tr>
+        <th><label>小宇宙玩法：</label></th>
+        <td><a href="special/20130309/141402.html" target="_blank">小宇宙基础</a>
+          <a href="special/20130309/141403.html" target="_blank">小宇宙进阶</a>
+          <a href="special/20130309/141401.html" target="_blank">小宇宙变化</a>
+          <a href="special/20130309/141404.html" target="_blank">小宇宙运势</a></td>
+      </tr>
+      <tr>
+        <th><label>军团玩法：</label></th>
+        <td><a href="special/20130309/141411.html" target="_blank">军团背景</a>
+          <a href="special/20130309/141413.html" target="_blank">加入军团</a>
+          <a href="special/20130309/141412.html" target="_blank">创建军团</a>
+          <a href="special/20130309/141415.html" target="_blank">军团基地</a>
+          <a href="special/20130309/141414.html" target="_blank">军团对抗</a></td>
+      </tr>
+      <tr>
+        <th><label>活动副本：</label></th>
+        <td><a href="special/20130309/141418.html" target="_blank">圣战回忆</a>
+          <a href="special/20130309/141417.html" target="_blank">命运试炼</a>
+          <a href="special/20130309/141419.html" target="_blank">集结！十二宫危机</a>
+          <a href="special/20130309/141416.html" target="_blank">危急！女神近卫军</a></td>
+      </tr>
+      <tr>
+        <th><label>日常活动：</label></th>
+        <td><a href="special/20130309/141410.html" target="_blank">幸运星</a>
+          <a href="special/20130309/141405.html" target="_blank">超级跑跑</a>
+          <a href="special/20130309/141406.html" target="_blank">贵鬼辞典</a>
+          <a href="special/20130309/141407.html" target="_blank">女神的圣斗士</a>
+          <a href="special/20130309/141408.html" target="_blank">圣斗士之路</a>
+          <a href="special/20130309/141409.html" target="_blank">星辰史诗</a></td>
+      </tr>
+    </table>
+    </div>
+  </div>
+</div>
+          </div>
+          <!-- 右侧 -->
+          <div class="info_aside">
+<div class="info_menu"> 
+<a href="../download/index.html" class="item1" target="_blank"></a> 
+<a href="http://passport.wanmei.com/register/phone.jsp" class="item2" target="_blank"></a> 
+<a href="http://pay.wanmei.com/e/epage/setup_2_sds.html" class="item3" target="_blank"></a> 
+<a href="http://event51.wanmei.com/seiya/201305/xinshou/" class="item4" target="_blank"></a> </div>
+<div class="aside_hd"> 常用功能 </div>
+<div class="aside_bd">
+  <div class="common_use">
+    <p> <a href="http://cs.wanmei.com/self/passemail.shtml"target="_blank">密码找回</a><span>|</span> <a href="http://passport.wanmei.com/usertime/queryAppendCashAction.do" target="_blank">充错转区</a><span>|</span> <a href="http://www.wanmei.com/zhanghao/key_intor.html" target="_blank">完美神盾</a></p>
+    <p> <a href="http://www.wanmei.com/zhanghao/index.html" target="_blank">安全中心</a><span>|</span> <a href="http://cs.wanmei.com/index.shtml" target="_blank">客服中心</a><span>|</span> <a href="http://d.wanmei.com/" target="_blank">完美下载</a></p>
+  </div>
+  <div class="ad_item"> <a href="http://event21.wanmei.com/seiya/201311/seiyastarmagazine/index.jsp" target="_blank"><img src="../resources/jpg/131218/10151387357730981.jpg"></a> 
+  </div>
+  <div class="ad_item"> <a href="http://event51.wanmei.com/seiya/201311/seiyapk/" target="_blank"><img src="../resources/jpg/131218/10151387357731156.jpg"></a> 
+  </div>
+
+</div>
+<div class="aside_hd"> 客服电话 </div>
+<div class="aside_bd cs_area">
+  <p class="tel">028-68729666</p>
+  <p class="mail">客服邮箱：<a href="mailto:kfseiya@cs.wanmei.com"><font color="#909090">kfseiya@cs.wanmei.com</font></a></p>
+  <p class="mail">投诉邮箱：<a href="mailto:tsseiya@cs.wanmei.com"><font color="#909090">tsseiya@cs.wanmei.com</font></a></p>
+</div>
+</div>
+          <!-- /右侧 --> 
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="footer_wrap">
+  <div class="w1002">
+    <iframe src="../foot.html" width="1002" height="140" scrolling="no" frameborder="0" allowtransparency="true"></iframe>
+  </div>
+</div>
+<div class="wm-public" analytics="{single:['']}"></div>
+</body>
+
+<!-- Mirrored from seiya.wanmei.com/info/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 21 Jun 2025 17:20:08 GMT -->
+</html>

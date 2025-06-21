@@ -1,0 +1,18 @@
+@import url(../../www.wanmei.com/public/style/wm.css);
+
+body{margin:0px;padding:0px;background:#090909;font-size:12px;color:#1a779b; line-height:16px;}
+img{border:0px}
+a{text-decoration:none;color:#1a779b}
+a:hover{text-decoration:underline;color:yellow}
+a {blr:expression(this.onFocus=this.blur());outline:none}
+.clr{clear:both}
+.pointer{cursor:pointer}
+.none{display:none}
+.relative {position:relative}
+textarea{resize:none}
+
+
+.wrap_bg{width:100%;min-width:1002px;background:#090909 url(../images/error1303/wrap_error.jpg) no-repeat center top; clear:both}
+
+#header ,#container{width:1002px; margin:0px auto;clear:both;}
+#header img { display:block}

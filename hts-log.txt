@@ -1,0 +1,40 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 21 Jun 2025 13:34:09 at https://web.archive.org/web/20160713104254/http://seiya.wanmei.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://web.archive.org/web/20160713104254/http://seiya.wanmei.com/ -O1 "E:\Site-Chaos\SSO-Chaos" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:38:13	Error: 	"NOT FOUND" (404) at link https://web-static.archive.org/_static/ (from https://web.archive.org/web/20160713104254/http://seiya.wanmei.com/)
+13:39:40	Warning: 	FOUND for https://web.archive.org/web/20160713104254/http://seiya.wanmei.com/wap/app/
+13:39:40	Warning: 	File has moved from https://web.archive.org/web/20160713104254/http://seiya.wanmei.com/wap/app/ to https://web.archive.org/web/20160901062902/http://seiya.wanmei.com/wap/app/
+13:39:40	Warning: 	FOUND for https://web.archive.org/web/20160713104254/http://seiya.wanmei.com/download/
+13:39:40	Warning: 	File has moved from https://web.archive.org/web/20160713104254/http://seiya.wanmei.com/download/ to https://web.archive.org/web/20160724071312/http://seiya.wanmei.com/download
+13:39:40	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link seiya.dl.wanmei.com/robots.txt (from https://web.archive.org/web/20160713104254/http://seiya.wanmei.com/)
+13:39:40	Warning: 	Retry after error -5 (Unable to get server's address: Este host n?o иж conhecido. ) at link seiya.dl.wanmei.com/seiya/media/sdstianqinjinengzhanshi.flv (from https://web.archive.org/web/20160713104254/http://seiya.wanmei.com/)
+13:39:41	Warning: 	Found for media101.wanmei.com/robots.txt
+13:39:41	Warning: 	File has moved from media101.wanmei.com/robots.txt to http://www.wanmei.com/error/error.htm
+13:39:41	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link seiya.dl.wanmei.com/seiya/patch/hailong.flv (from https://web.archive.org/web/20160713104254/http://seiya.wanmei.com/)
+13:40:32	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/hd/1901/recruit/index.html (from seiya.wanmei.com/)
+13:40:32	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/png/190115/10151547544769163.png (from seiya.wanmei.com/)
+13:49:51	Warning: 	Retry after error -4 (Connect Error) at link https://sdxl.wanmei.com/js/jquery.soChange_120618.js (from seiya.wanmei.com/)
+13:49:53	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link seiya.dl.wanmei.com/seiya/media/sdstianqinjinengzhanshi.flv (from https://web.archive.org/web/20160713104254/http://seiya.wanmei.com/)
+13:49:53	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link seiya.dl.wanmei.com/seiya/patch/hailong.flv (from https://web.archive.org/web/20160713104254/http://seiya.wanmei.com/)
+13:50:53	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/info/ (from seiya.wanmei.com/news/gamebroad/20181026/214965.shtml)
+14:00:09	Error: 	"Not Found" (404) at link arc.arcgames.cn/arcclient/client/arc_client.js (from seiya.wanmei.com/news/gamenews/index.htm)
+14:16:46	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/website130904/images/temp140610/event_tit.png (from seiya.wanmei.com/active/index.htm)
+14:18:16	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/170815/10151502768552209.jpg (from seiya.wanmei.com/news/gamenews/20170815/205549.shtml)
+14:18:37	Warning: 	Retry after error -2 (Receive Time Out) at link https://sdxl.wanmei.com/js/jquery.soChange_120618.js (from seiya.wanmei.com/)
+14:18:39	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link seiya.dl.wanmei.com/seiya/media/sdstianqinjinengzhanshi.flv (from https://web.archive.org/web/20160713104254/http://seiya.wanmei.com/)
+14:18:39	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link seiya.dl.wanmei.com/seiya/patch/hailong.flv (from https://web.archive.org/web/20160713104254/http://seiya.wanmei.com/)
+14:19:15	Warning: 	Found for seiya.wanmei.com/*../website130904/images/temp/http_down.png*/
+14:19:15	Warning: 	File has moved from seiya.wanmei.com/*../website130904/images/temp/http_down.png*/ to http://seiya.wanmei.com/error/error.htm
+14:22:15	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/130114/10151358145824842.jpg (from seiya.wanmei.com/picture/original/index.htm)
+14:22:16	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/130510/10151368153130811.jpg (from seiya.wanmei.com/picture/printscreen/index.htm)
+14:54:07	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/news/gamenews/20160112/179341.shtml (from seiya.wanmei.com/news/gamenews/index5.htm)
+14:56:50	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/news/gamenews/20160106/179237.shtml (from seiya.wanmei.com/news/gamenews/index5.htm)
+14:56:57	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/160106/10151452068475318.jpg (from seiya.wanmei.com/news/gamenews/index5.htm)
+15:04:03	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/news/gamenews/20151222/178917.shtml (from seiya.wanmei.com/news/gamenews/index7.htm)
+15:23:04	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/news/gamenews/20151124/177779.shtml (from seiya.wanmei.com/news/gamenews/index10.htm)
+15:40:49	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/news/gamenews/20140128/156684.shtml (from seiya.wanmei.com/news/gamenews/index99.htm)
