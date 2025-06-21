@@ -1,0 +1,627 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 21 Jun 2025 13:34:09 at https://web.archive.org/web/20160713104254/http://seiya.wanmei.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://web.archive.org/web/20160713104254/http://seiya.wanmei.com/ -O1 "E:\Site-Chaos\SSO-Chaos" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:38:13	Error: 	"NOT FOUND" (404) at link https://web-static.archive.org/_static/ (from https://web.archive.org/web/20160713104254/http://seiya.wanmei.com/)
+13:39:40	Warning: 	FOUND for https://web.archive.org/web/20160713104254/http://seiya.wanmei.com/wap/app/
+13:39:40	Warning: 	File has moved from https://web.archive.org/web/20160713104254/http://seiya.wanmei.com/wap/app/ to https://web.archive.org/web/20160901062902/http://seiya.wanmei.com/wap/app/
+13:39:40	Warning: 	FOUND for https://web.archive.org/web/20160713104254/http://seiya.wanmei.com/download/
+13:39:40	Warning: 	File has moved from https://web.archive.org/web/20160713104254/http://seiya.wanmei.com/download/ to https://web.archive.org/web/20160724071312/http://seiya.wanmei.com/download
+13:39:40	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link seiya.dl.wanmei.com/robots.txt (from https://web.archive.org/web/20160713104254/http://seiya.wanmei.com/)
+13:39:40	Warning: 	Retry after error -5 (Unable to get server's address: Este host n?o иж conhecido. ) at link seiya.dl.wanmei.com/seiya/media/sdstianqinjinengzhanshi.flv (from https://web.archive.org/web/20160713104254/http://seiya.wanmei.com/)
+13:39:41	Warning: 	Found for media101.wanmei.com/robots.txt
+13:39:41	Warning: 	File has moved from media101.wanmei.com/robots.txt to http://www.wanmei.com/error/error.htm
+13:39:41	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link seiya.dl.wanmei.com/seiya/patch/hailong.flv (from https://web.archive.org/web/20160713104254/http://seiya.wanmei.com/)
+13:40:32	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/hd/1901/recruit/index.html (from seiya.wanmei.com/)
+13:40:32	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/png/190115/10151547544769163.png (from seiya.wanmei.com/)
+13:49:51	Warning: 	Retry after error -4 (Connect Error) at link https://sdxl.wanmei.com/js/jquery.soChange_120618.js (from seiya.wanmei.com/)
+13:49:53	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link seiya.dl.wanmei.com/seiya/media/sdstianqinjinengzhanshi.flv (from https://web.archive.org/web/20160713104254/http://seiya.wanmei.com/)
+13:49:53	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link seiya.dl.wanmei.com/seiya/patch/hailong.flv (from https://web.archive.org/web/20160713104254/http://seiya.wanmei.com/)
+13:50:53	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/info/ (from seiya.wanmei.com/news/gamebroad/20181026/214965.shtml)
+14:00:09	Error: 	"Not Found" (404) at link arc.arcgames.cn/arcclient/client/arc_client.js (from seiya.wanmei.com/news/gamenews/index.htm)
+14:16:46	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/website130904/images/temp140610/event_tit.png (from seiya.wanmei.com/active/index.htm)
+14:18:16	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/170815/10151502768552209.jpg (from seiya.wanmei.com/news/gamenews/20170815/205549.shtml)
+14:18:37	Warning: 	Retry after error -2 (Receive Time Out) at link https://sdxl.wanmei.com/js/jquery.soChange_120618.js (from seiya.wanmei.com/)
+14:18:39	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link seiya.dl.wanmei.com/seiya/media/sdstianqinjinengzhanshi.flv (from https://web.archive.org/web/20160713104254/http://seiya.wanmei.com/)
+14:18:39	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link seiya.dl.wanmei.com/seiya/patch/hailong.flv (from https://web.archive.org/web/20160713104254/http://seiya.wanmei.com/)
+14:19:15	Warning: 	Found for seiya.wanmei.com/*../website130904/images/temp/http_down.png*/
+14:19:15	Warning: 	File has moved from seiya.wanmei.com/*../website130904/images/temp/http_down.png*/ to http://seiya.wanmei.com/error/error.htm
+14:22:15	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/130114/10151358145824842.jpg (from seiya.wanmei.com/picture/original/index.htm)
+14:22:16	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/130510/10151368153130811.jpg (from seiya.wanmei.com/picture/printscreen/index.htm)
+14:54:07	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/news/gamenews/20160112/179341.shtml (from seiya.wanmei.com/news/gamenews/index5.htm)
+14:56:50	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/news/gamenews/20160106/179237.shtml (from seiya.wanmei.com/news/gamenews/index5.htm)
+14:56:57	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/160106/10151452068475318.jpg (from seiya.wanmei.com/news/gamenews/index5.htm)
+15:04:03	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/news/gamenews/20151222/178917.shtml (from seiya.wanmei.com/news/gamenews/index7.htm)
+15:23:04	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/news/gamenews/20151124/177779.shtml (from seiya.wanmei.com/news/gamenews/index10.htm)
+15:40:49	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/news/gamenews/20140128/156684.shtml (from seiya.wanmei.com/news/gamenews/index99.htm)
+17:21:44	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/130530/10151369909528969.jpg (from seiya.wanmei.com/news/gamebroad/20130530/144779.shtml)
+17:21:47	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/130509/10151368083038040.jpg (from seiya.wanmei.com/picture/printscreen/index1.htm)
+17:21:49	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/130509/10151368081378601.jpg (from seiya.wanmei.com/picture/printscreen/index2.htm)
+17:21:51	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/130508/10151368012890905.jpg (from seiya.wanmei.com/picture/printscreen/index3.htm)
+17:21:52	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/130309/10151362813336351.jpg (from seiya.wanmei.com/picture/printscreen/index4.htm)
+17:21:52	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/130309/10151362813359433.jpg (from seiya.wanmei.com/picture/printscreen/index4.htm)
+17:22:12	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link seiya.dl.wanmei.com/seiya/patch/cover0515-2.flv (from seiya.wanmei.com/picture/video/20140522/159618.htm)
+17:22:12	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link seiya.dl.wanmei.com/seiya/patch/cover0515-1.flv (from seiya.wanmei.com/picture/video/20140522/159617.htm)
+17:22:12	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/170330/10151490859940099.jpg (from seiya.wanmei.com/news/gamenews/20170330/201762.shtml)
+17:22:12	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/download/ (from seiya.wanmei.com/news/gamenews/20160307/180046.shtml)
+17:22:14	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/160307/10151457349444723.jpg (from seiya.wanmei.com/news/gamenews/20160307/180046.shtml)
+17:22:33	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/160225/10151456389076442.jpg (from seiya.wanmei.com/news/gamenews/20160225/179887.shtml)
+17:22:39	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/160118/10151453100477918.jpg (from seiya.wanmei.com/news/gamenews/20160118/179427.shtml)
+17:23:27	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/160111/10151452496258588.jpg (from seiya.wanmei.com/news/gamenews/20160111/179321.shtml)
+17:23:36	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/160108/10151452246236080.jpg (from seiya.wanmei.com/news/gamenews/20160108/179303.shtml)
+17:24:01	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/news/gamenews/20160106/179237.shtml (from seiya.wanmei.com/news/gamenews/index5.htm)
+17:24:03	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/160105/10151451981701927.jpg (from seiya.wanmei.com/news/gamenews/20160105/179200.shtml)
+17:24:09	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/151225/10151451010051564.jpg (from seiya.wanmei.com/news/gamenews/20151225/179031.shtml)
+17:25:21	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/151208/10151449540547978.jpg (from seiya.wanmei.com/news/gamenews/20151208/178316.shtml)
+17:25:51	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/151203/10151449108120188.jpg (from seiya.wanmei.com/news/gamenews/20151203/178124.shtml)
+17:25:54	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/151130/10151448850309074.jpg (from seiya.wanmei.com/news/gamenews/20151130/177974.shtml)
+17:26:50	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/news/gamenews/20150824/174449.shtml (from seiya.wanmei.com/news/gamenews/index20.htm)
+17:43:46	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/151126/10151448504602200.jpg (from seiya.wanmei.com/news/gamenews/20151126/177885.shtml)
+17:44:43	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/151123/10151448244805047.jpg (from seiya.wanmei.com/news/gamenews/20151123/177742.shtml)
+18:12:45	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/news/gamenews/20150930/175659.shtml (from seiya.wanmei.com/news/gamenews/index16.htm)
+18:12:46	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/news/gamenews/20150924/175454.shtml (from seiya.wanmei.com/news/gamenews/index16.htm)
+18:12:46	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/news/gamenews/20150917/175247.shtml (from seiya.wanmei.com/news/gamenews/index17.htm)
+18:12:48	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/140126/10151390716563770.jpg (from seiya.wanmei.com/news/gamenews/20140126/156584.shtml)
+18:12:48	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/140126/10151390716450387.jpg (from seiya.wanmei.com/news/gamenews/20140126/156583.shtml)
+18:12:48	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/140128/10151390881223572.jpg (from seiya.wanmei.com/news/gamenews/20140128/156683.shtml)
+18:12:48	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/140127/10151390790600043.jpg (from seiya.wanmei.com/news/gamenews/20140127/156624.shtml)
+18:12:49	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/140127/10151390790722104.jpg (from seiya.wanmei.com/news/gamenews/20140127/156624.shtml)
+18:56:12	Warning: 	Retry after error -4 (No data (connection closed)) at link seiya.wanmei.com/hd/1607/match/images/nav3.png (from seiya.wanmei.com/hd/1607/match/)
+18:56:13	Warning: 	Retry after error -4 (No data (connection closed)) at link seiya.wanmei.com/hd/1607/match/images/nav4.png (from seiya.wanmei.com/hd/1607/match/)
+19:52:47	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/131224/10151387850616139.jpg (from seiya.wanmei.com/active/20131223/155402.htm)
+19:52:48	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/130828/10151377680462785.jpg (from seiya.wanmei.com/active/20130828/149266.htm)
+19:53:01	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/news/gamenews/20130411/142528.shtml (from seiya.wanmei.com/mediumnews/20130422/142987.shtml)
+19:53:03	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/130307/10151362656143854.jpg (from seiya.wanmei.com/mediumnews/20130307/141321.shtml)
+19:53:21	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/130307/10151362656146795.jpg (from seiya.wanmei.com/mediumnews/20130307/141321.shtml)
+19:55:09	Warning: 	Retry after error 502 (Bad Gateway) at link cookie.bi.wanmei.com/jsp/pvbi/wanmeibihd.js (from seiya.wanmei.com/bbs/20110817/84459.shtml)
+19:55:09	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/images/s.png (from seiya.wanmei.com/style/common201112.css)
+19:55:09	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/images/data0608/top_img1.jpg (from seiya.wanmei.com/style/data0608.css)
+19:55:09	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/130912/10151378975605609.jpg (from seiya.wanmei.com/info/copy/20130912/150252.shtml)
+19:55:09	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/130913/10151379054513600.jpg (from seiya.wanmei.com/info/system/20130913/150327.shtml)
+19:55:10	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/130913/10151379054517864.jpg (from seiya.wanmei.com/info/system/20130913/150327.shtml)
+19:55:12	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/130913/10151379054387605.jpg (from seiya.wanmei.com/info/system/20130913/150326.shtml)
+19:55:19	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/130913/10151379054388844.jpg (from seiya.wanmei.com/info/system/20130913/150326.shtml)
+19:55:24	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/130819/10151376902492676.jpg (from seiya.wanmei.com/info/gamejs/20130819/148778.shtml)
+19:55:27	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/130813/10151376367501130.jpg (from seiya.wanmei.com/info/system/20130813/148441.shtml)
+19:55:33	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/130709/10151373360713358.jpg (from seiya.wanmei.com/info/special/20130709/146612.shtml)
+19:55:36	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/130708/10151373283909273.jpg (from seiya.wanmei.com/info/special/20130309/141419.shtml)
+19:55:38	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/130313/10151363173787120.jpg (from seiya.wanmei.com/info/gamejs/20130313/141572.shtml)
+19:55:51	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/130313/10151363174622583.jpg (from seiya.wanmei.com/info/gamejs/20130313/141576.shtml)
+19:55:59	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/130309/10151362802405652.jpg (from seiya.wanmei.com/info/gamejs/20130309/141363.shtml)
+19:56:00	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/130313/10151363180774065.jpg (from seiya.wanmei.com/info/noviceinfo/20130309/141374.shtml)
+19:56:09	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/130313/10151363181027804.jpg (from seiya.wanmei.com/info/noviceinfo/20130309/141379.shtml)
+19:56:13	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/130313/10151363181632303.jpg (from seiya.wanmei.com/info/noviceinfo/20130309/141392.shtml)
+19:56:13	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/130313/10151363181746956.jpg (from seiya.wanmei.com/info/noviceinfo/20130309/141396.shtml)
+19:56:19	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/130313/10151363182469931.jpg (from seiya.wanmei.com/info/system/20130309/141430.shtml)
+19:56:19	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/130709/10151373361407170.jpg (from seiya.wanmei.com/info/special/20130309/141406.shtml)
+19:56:33	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/130709/10151373361407780.jpg (from seiya.wanmei.com/info/special/20130309/141406.shtml)
+19:56:34	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link seiya.dl.wanmei.com/seiya/patch/cover0515-2.flv (from seiya.wanmei.com/picture/video/20140522/159618.htm)
+19:56:34	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link seiya.dl.wanmei.com/seiya/patch/cover0515-1.flv (from seiya.wanmei.com/picture/video/20140522/159617.htm)
+19:56:34	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/160112/10151452578754301.jpg (from seiya.wanmei.com/news/gamenews/20160112/179341.shtml)
+19:57:31	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/151222/10151450750549724.jpg (from seiya.wanmei.com/news/gamenews/20151222/178917.shtml)
+19:57:34	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/151203/10151449108120188.jpg (from seiya.wanmei.com/news/gamenews/20151203/178124.shtml)
+19:58:41	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/150819/10151439953922052.jpg (from seiya.wanmei.com/news/gamenews/20150819/174248.shtml)
+20:02:41	Error: 	Exit requested by shell or user
+20:02:44	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150811/10151439274138689.jpg
+20:02:45	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/news/gamenews/20150805/173680.shtml (from seiya.wanmei.com/news/gamenews/index23.htm)
+20:02:46	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/news/gamenews/20150709/172407.shtml (from seiya.wanmei.com/news/gamenews/index25.htm)
+20:02:46	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/news/gamenews/20150707/172329.shtml (from seiya.wanmei.com/news/gamenews/index25.htm)
+20:02:46	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/news/gamenews/20150624/171889.shtml (from seiya.wanmei.com/news/gamenews/index27.htm)
+20:02:47	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/news/gamenews/20150616/171606.shtml (from seiya.wanmei.com/news/gamenews/index27.htm)
+20:02:47	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/news/gamenews/20150602/171143.shtml (from seiya.wanmei.com/news/gamenews/index29.htm)
+20:02:48	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/news/gamenews/20150515/170459.shtml (from seiya.wanmei.com/news/gamenews/index30.htm)
+20:02:48	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/151112/10151447294542382.jpg (from seiya.wanmei.com/news/gamenews/20151112/177368.shtml)
+20:02:48	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/151111/10151447206237384.jpg (from seiya.wanmei.com/news/gamenews/20151111/177315.shtml)
+20:02:49	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/151106/10151446788263125.jpg (from seiya.wanmei.com/news/gamenews/20151106/177082.shtml)
+20:02:49	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/151104/10151446606722679.jpg (from seiya.wanmei.com/news/gamenews/20151104/176954.shtml)
+20:02:49	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/151030/10151446173410230.jpg (from seiya.wanmei.com/news/gamenews/20151030/176740.shtml)
+20:02:49	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/151030/10151446173005616.jpg (from seiya.wanmei.com/news/gamenews/20151030/176729.shtml)
+20:02:49	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/151030/10151446173007252.jpg (from seiya.wanmei.com/news/gamenews/20151030/176729.shtml)
+20:02:49	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/151027/10151445933483907.jpg (from seiya.wanmei.com/news/gamenews/20151027/176571.shtml)
+20:02:49	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/151022/10151445484917664.jpg (from seiya.wanmei.com/news/gamenews/20151022/176347.shtml)
+20:02:49	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/151022/10151445481280156.jpg (from seiya.wanmei.com/news/gamenews/20151022/176336.shtml)
+20:02:49	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/151019/10151445222964610.jpg (from seiya.wanmei.com/news/gamenews/20151019/176158.shtml)
+20:02:49	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/151015/10151444905926767.jpg (from seiya.wanmei.com/news/gamenews/20151015/176071.shtml)
+20:02:49	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/151015/10151444905929550.jpg (from seiya.wanmei.com/news/gamenews/20151015/176071.shtml)
+20:02:49	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sd.games.wanmei.com/resources/jpg/151015/10211444878051020.jpg (from seiya.wanmei.com/news/gamenews/20151015/176042.shtml)
+20:02:49	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sd.games.wanmei.com/resources/jpg/151015/10211444878051185.jpg (from seiya.wanmei.com/news/gamenews/20151015/176042.shtml)
+20:02:49	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sd.games.wanmei.com/resources/jpg/151015/10211444878051345.jpg (from seiya.wanmei.com/news/gamenews/20151015/176042.shtml)
+20:02:49	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sd.games.wanmei.com/resources/jpg/151015/10211444878051520.jpg (from seiya.wanmei.com/news/gamenews/20151015/176042.shtml)
+20:02:49	Warning: 	Retry after error -4 (No data (connection closed)) at link https://sd.games.wanmei.com/resources/jpg/151015/10211444878051676.jpg (from seiya.wanmei.com/news/gamenews/20151015/176042.shtml)
+20:02:49	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/151012/10151444625647560.jpg (from seiya.wanmei.com/news/gamenews/20151012/175851.shtml)
+20:02:49	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/151012/10151444625650686.jpg (from seiya.wanmei.com/news/gamenews/20151012/175851.shtml)
+20:02:49	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/151008/10151444305837857.jpg (from seiya.wanmei.com/news/gamenews/20151008/175730.shtml)
+20:02:49	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/151008/10151444305838556.jpg (from seiya.wanmei.com/news/gamenews/20151008/175730.shtml)
+20:02:49	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/151008/10151444305839118.jpg (from seiya.wanmei.com/news/gamenews/20151008/175730.shtml)
+20:02:49	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/151008/10151444305839665.jpg (from seiya.wanmei.com/news/gamenews/20151008/175730.shtml)
+20:02:49	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/151008/10151444305840226.jpg (from seiya.wanmei.com/news/gamenews/20151008/175730.shtml)
+20:02:49	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/151008/10151444305840725.jpg (from seiya.wanmei.com/news/gamenews/20151008/175730.shtml)
+20:02:49	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/151008/10151444268450953.jpg (from seiya.wanmei.com/news/gamenews/20151008/175695.shtml)
+20:02:49	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/151008/10151444268451907.jpg (from seiya.wanmei.com/news/gamenews/20151008/175695.shtml)
+20:02:49	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/151008/10151444268452606.jpg (from seiya.wanmei.com/news/gamenews/20151008/175695.shtml)
+20:02:49	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/151008/10151444268453344.jpg (from seiya.wanmei.com/news/gamenews/20151008/175695.shtml)
+20:02:49	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/151008/10151444268453917.jpg (from seiya.wanmei.com/news/gamenews/20151008/175695.shtml)
+20:02:49	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/151008/10151444268454402.jpg (from seiya.wanmei.com/news/gamenews/20151008/175695.shtml)
+20:02:49	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/news/gamenews/20150930/175659.shtml (from seiya.wanmei.com/news/gamenews/index16.htm)
+20:02:49	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150929/10151443513743311.jpg (from seiya.wanmei.com/news/gamenews/20150929/175574.shtml)
+20:02:49	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150929/10151443491236400.jpg (from seiya.wanmei.com/news/gamenews/20150929/175574.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150929/10151443491237385.jpg (from seiya.wanmei.com/news/gamenews/20150929/175574.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150929/10151443491237915.jpg (from seiya.wanmei.com/news/gamenews/20150929/175574.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150928/10151443406460552.jpg (from seiya.wanmei.com/news/gamenews/20150928/175549.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150928/10151443406461575.jpg (from seiya.wanmei.com/news/gamenews/20150928/175549.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150928/10151443406462186.jpg (from seiya.wanmei.com/news/gamenews/20150928/175549.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150928/10151443406462684.jpg (from seiya.wanmei.com/news/gamenews/20150928/175549.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150925/10151443145950889.jpg (from seiya.wanmei.com/news/gamenews/20150925/175473.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150925/10151443145951616.jpg (from seiya.wanmei.com/news/gamenews/20150925/175473.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150925/10151443145952556.jpg (from seiya.wanmei.com/news/gamenews/20150925/175473.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150925/10151443145953005.jpg (from seiya.wanmei.com/news/gamenews/20150925/175473.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150925/10151443145953417.jpg (from seiya.wanmei.com/news/gamenews/20150925/175473.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/news/gamenews/20150924/175454.shtml (from seiya.wanmei.com/news/gamenews/index16.htm)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150923/10151442998680994.jpg (from seiya.wanmei.com/news/gamenews/20150923/175429.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150923/10151442998681452.jpg (from seiya.wanmei.com/news/gamenews/20150923/175429.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150921/10151442814540813.jpg (from seiya.wanmei.com/news/gamenews/20150921/175331.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150921/10151442814541239.jpg (from seiya.wanmei.com/news/gamenews/20150921/175331.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150921/10151442814542144.jpg (from seiya.wanmei.com/news/gamenews/20150921/175331.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150921/10151442814542596.jpg (from seiya.wanmei.com/news/gamenews/20150921/175331.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150921/10151442814543129.jpg (from seiya.wanmei.com/news/gamenews/20150921/175331.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/news/gamenews/20150917/175247.shtml (from seiya.wanmei.com/news/gamenews/index17.htm)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150917/10151442468072109.jpg (from seiya.wanmei.com/news/gamenews/20150917/175245.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150917/10151442468073577.jpg (from seiya.wanmei.com/news/gamenews/20150917/175245.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150917/10151442468074380.jpg (from seiya.wanmei.com/news/gamenews/20150917/175245.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150917/10151442467598930.jpg (from seiya.wanmei.com/news/gamenews/20150917/175242.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150917/10151442467599463.jpg (from seiya.wanmei.com/news/gamenews/20150917/175242.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150917/10151442467600036.jpg (from seiya.wanmei.com/news/gamenews/20150917/175242.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150914/10151442209331986.jpg (from seiya.wanmei.com/news/gamenews/20150914/175122.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150914/10151442209332929.jpg (from seiya.wanmei.com/news/gamenews/20150914/175122.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150914/10151442209334035.jpg (from seiya.wanmei.com/news/gamenews/20150914/175122.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150914/10151442209335759.jpg (from seiya.wanmei.com/news/gamenews/20150914/175122.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150914/10151442207740209.jpg (from seiya.wanmei.com/news/gamenews/20150914/175120.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150914/10151442207741073.jpg (from seiya.wanmei.com/news/gamenews/20150914/175120.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150914/10151442207741562.jpg (from seiya.wanmei.com/news/gamenews/20150914/175120.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150914/10151442196823810.jpg (from seiya.wanmei.com/news/gamenews/20150914/175107.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150914/10151442196824684.jpg (from seiya.wanmei.com/news/gamenews/20150914/175107.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150914/10151442196826934.jpg (from seiya.wanmei.com/news/gamenews/20150914/175107.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150910/10151441852312693.jpg (from seiya.wanmei.com/news/gamenews/20150910/175013.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150910/10151441852313391.jpg (from seiya.wanmei.com/news/gamenews/20150910/175013.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150910/10151441852313841.jpg (from seiya.wanmei.com/news/gamenews/20150910/175013.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150910/10151441851178720.jpg (from seiya.wanmei.com/news/gamenews/20150910/175007.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150910/10151441851179531.jpg (from seiya.wanmei.com/news/gamenews/20150910/175007.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150910/10151441851180357.jpg (from seiya.wanmei.com/news/gamenews/20150910/175007.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150910/10151441851181090.jpg (from seiya.wanmei.com/news/gamenews/20150910/175007.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150910/10151441851182324.jpg (from seiya.wanmei.com/news/gamenews/20150910/175007.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150907/10151441595114183.jpg (from seiya.wanmei.com/news/gamenews/20150907/174891.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150907/10151441595114937.jpg (from seiya.wanmei.com/news/gamenews/20150907/174891.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150907/10151441595115762.jpg (from seiya.wanmei.com/news/gamenews/20150907/174891.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150906/10151441509806310.jpg (from seiya.wanmei.com/news/gamenews/20150906/174858.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150906/10151441509806958.jpg (from seiya.wanmei.com/news/gamenews/20150906/174858.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150906/10151441509807650.jpg (from seiya.wanmei.com/news/gamenews/20150906/174858.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150906/10151441509808389.jpg (from seiya.wanmei.com/news/gamenews/20150906/174858.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150906/10151441509338870.jpg (from seiya.wanmei.com/news/gamenews/20150906/174855.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150906/10151441509339489.jpg (from seiya.wanmei.com/news/gamenews/20150906/174855.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150902/10151441162146859.jpg (from seiya.wanmei.com/news/gamenews/20150902/174801.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150902/10151441162147506.jpg (from seiya.wanmei.com/news/gamenews/20150902/174801.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/png/150902/10151441162148892.png (from seiya.wanmei.com/news/gamenews/20150902/174801.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150831/10151440988749021.jpg (from seiya.wanmei.com/news/gamenews/20150831/174713.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150831/10151440988749786.jpg (from seiya.wanmei.com/news/gamenews/20150831/174713.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150831/10151440988751877.jpg (from seiya.wanmei.com/news/gamenews/20150831/174713.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150828/10151440729560807.jpg (from seiya.wanmei.com/news/gamenews/20150828/174653.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150828/10151440731529452.jpg (from seiya.wanmei.com/news/gamenews/20150828/174653.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150828/10151440731531794.jpg (from seiya.wanmei.com/news/gamenews/20150828/174653.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150828/10151440729564210.jpg (from seiya.wanmei.com/news/gamenews/20150828/174653.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150826/10151440582971949.jpg (from seiya.wanmei.com/news/gamenews/20150826/174575.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150826/10151440582973498.jpg (from seiya.wanmei.com/news/gamenews/20150826/174575.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150826/10151440582974241.jpg (from seiya.wanmei.com/news/gamenews/20150826/174575.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150825/10151440469462256.jpg (from seiya.wanmei.com/news/gamenews/20150825/174475.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150825/10151440469462941.jpg (from seiya.wanmei.com/news/gamenews/20150825/174475.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/150825/10151440469463719.jpg (from seiya.wanmei.com/news/gamenews/20150825/174475.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140126/10151390716563770.jpg (from seiya.wanmei.com/news/gamenews/20140126/156584.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140126/10151390716450387.jpg (from seiya.wanmei.com/news/gamenews/20140126/156583.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140128/10151390881674027.jpg (from seiya.wanmei.com/news/gamenews/20140128/156684.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140128/10151390881674234.jpg (from seiya.wanmei.com/news/gamenews/20140128/156684.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140128/10151390881674441.jpg (from seiya.wanmei.com/news/gamenews/20140128/156684.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140128/10151390881674858.jpg (from seiya.wanmei.com/news/gamenews/20140128/156684.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140128/10151390881223572.jpg (from seiya.wanmei.com/news/gamenews/20140128/156683.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140127/10151390790600043.jpg (from seiya.wanmei.com/news/gamenews/20140127/156624.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140127/10151390790722104.jpg (from seiya.wanmei.com/news/gamenews/20140127/156624.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140314/10151394786056023.jpg (from seiya.wanmei.com/news/gamenews/20140314/157582.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140314/10151394786056198.jpg (from seiya.wanmei.com/news/gamenews/20140314/157582.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140314/10151394786055372.jpg (from seiya.wanmei.com/news/gamenews/20140314/157582.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140314/10151394782262799.jpg (from seiya.wanmei.com/news/gamenews/20140314/157578.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140314/10151394782263031.jpg (from seiya.wanmei.com/news/gamenews/20140314/157578.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140314/10151394782263439.jpg (from seiya.wanmei.com/news/gamenews/20140314/157578.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140314/10151394782263631.jpg (from seiya.wanmei.com/news/gamenews/20140314/157578.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140314/10151394782264039.jpg (from seiya.wanmei.com/news/gamenews/20140314/157578.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140314/10151394777542873.jpg (from seiya.wanmei.com/news/gamenews/20140314/157569.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140314/10151394777543046.jpg (from seiya.wanmei.com/news/gamenews/20140314/157569.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140314/10151394777543453.jpg (from seiya.wanmei.com/news/gamenews/20140314/157569.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140314/10151394777543657.jpg (from seiya.wanmei.com/news/gamenews/20140314/157569.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140314/10151394777543985.jpg (from seiya.wanmei.com/news/gamenews/20140314/157569.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140314/10151394777544156.jpg (from seiya.wanmei.com/news/gamenews/20140314/157569.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140314/10151394777544484.jpg (from seiya.wanmei.com/news/gamenews/20140314/157569.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140314/10151394777544689.jpg (from seiya.wanmei.com/news/gamenews/20140314/157569.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140314/10151394777545016.jpg (from seiya.wanmei.com/news/gamenews/20140314/157569.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140314/10151394777545218.jpg (from seiya.wanmei.com/news/gamenews/20140314/157569.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140314/10151394777542158.jpg (from seiya.wanmei.com/news/gamenews/20140314/157569.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140313/10151394690874120.jpg (from seiya.wanmei.com/news/gamenews/20140313/157529.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140313/10151394690874326.jpg (from seiya.wanmei.com/news/gamenews/20140313/157529.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140313/10151394690874657.jpg (from seiya.wanmei.com/news/gamenews/20140313/157529.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140313/10151394690875103.jpg (from seiya.wanmei.com/news/gamenews/20140313/157529.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140313/10151394690873596.jpg (from seiya.wanmei.com/news/gamenews/20140313/157529.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140313/10151394683902875.jpg (from seiya.wanmei.com/news/gamenews/20140313/157522.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140313/10151394683903130.jpg (from seiya.wanmei.com/news/gamenews/20140313/157522.shtml)
+20:02:50	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140313/10151394683903780.jpg (from seiya.wanmei.com/news/gamenews/20140313/157522.shtml)
+20:02:50	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/140313/10151394683901835.jpg (from seiya.wanmei.com/news/gamenews/20140313/157522.shtml)
+20:02:51	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140310/10151394437504523.jpg (from seiya.wanmei.com/news/gamenews/20140310/157417.shtml)
+20:02:51	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/140307/10151394179742928.jpg (from seiya.wanmei.com/news/gamenews/20140307/157392.shtml)
+20:02:51	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/140307/10151394159702250.jpg (from seiya.wanmei.com/news/gamenews/20140307/157359.shtml)
+20:02:51	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140227/10151393472691791.jpg (from seiya.wanmei.com/news/gamenews/20140227/157183.shtml)
+20:02:51	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140226/10151393383771294.jpg (from seiya.wanmei.com/news/gamenews/20140226/157144.shtml)
+20:02:51	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140221/10151392962236794.jpg (from seiya.wanmei.com/news/gamenews/20140221/157048.shtml)
+20:02:51	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/140220/10151392878979813.jpg (from seiya.wanmei.com/news/gamenews/20140220/157015.shtml)
+20:02:51	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/140220/10151392878980218.jpg (from seiya.wanmei.com/news/gamenews/20140220/157015.shtml)
+20:02:51	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/140220/10151392878788582.jpg (from seiya.wanmei.com/news/gamenews/20140220/157014.shtml)
+20:02:51	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/140218/10151392695617681.jpg (from seiya.wanmei.com/news/gamenews/20140218/156948.shtml)
+20:02:51	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140211/10151392108076259.jpg (from seiya.wanmei.com/news/gamenews/20140211/156779.shtml)
+20:02:51	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/140211/10151392088823832.jpg (from seiya.wanmei.com/news/gamenews/20140211/156765.shtml)
+20:02:51	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/140210/10151392003126948.jpg (from seiya.wanmei.com/news/gamenews/20140210/156745.shtml)
+20:02:51	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/140126/10151390717852982.jpg (from seiya.wanmei.com/news/gamenews/20140126/156593.shtml)
+20:02:51	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/140126/10151390717119381.jpg (from seiya.wanmei.com/news/gamenews/20140126/156588.shtml)
+20:02:56	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/news/gamebroad/20130820/148867.shtml (from seiya.wanmei.com/news/gamebroad/index28.htm)
+20:02:57	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/png/160314/10151457951983169.png (from seiya.wanmei.com/nsrz/20160314/180187.shtml)
+20:02:57	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/160118/10151453111777537.jpg (from seiya.wanmei.com/nsrz/20160118/179437.shtml)
+20:02:57	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/jpg/160108/10151452244127811.jpg (from seiya.wanmei.com/news/gamebroad/20160108/179299.shtml)
+20:02:57	Warning: 	Retry after error -2 (Receive Time Out) at link seiya.wanmei.com/resources/jpg/151224/10151450931796689.jpg (from seiya.wanmei.com/news/gamebroad/20151223/178986.shtml)
+20:02:57	Warning: 	Retry after error -4 (Connect Error) at link seiya.wanmei.com/resources/png/151230/10151451447157873.png (from seiya.wanmei.com/nsrz/20151217/178794.shtml)
+20:02:58	Warning: 	Retry after error -4 (Connect Error) at link 211.147.1.178/seiya.gif (from seiya.wanmei.com/weibo.htm)
+20:02:58	Warning: 	Retry after error 502 () at link cookie.bi.wanmei.com/jsp/pvbi/wanmeibihd.js (from seiya.wanmei.com/bbs/20110817/84459.shtml)
+20:02:58	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link seiya.dl.wanmei.com/seiya/patch/cover0515-2.flv (from seiya.wanmei.com/picture/video/20140522/159618.htm)
+20:02:58	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link seiya.dl.wanmei.com/seiya/patch/cover0515-1.flv (from seiya.wanmei.com/picture/video/20140522/159617.htm)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/news/gamenews/20150805/173680.shtml
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/news/gamenews/20150805/173680.shtml (from seiya.wanmei.com/news/gamenews/index23.htm)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/news/gamenews/20150709/172407.shtml
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/news/gamenews/20150709/172407.shtml (from seiya.wanmei.com/news/gamenews/index25.htm)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/news/gamenews/20150707/172329.shtml
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/news/gamenews/20150707/172329.shtml (from seiya.wanmei.com/news/gamenews/index25.htm)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/news/gamenews/20150624/171889.shtml
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/news/gamenews/20150624/171889.shtml (from seiya.wanmei.com/news/gamenews/index27.htm)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/news/gamenews/20150616/171606.shtml
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/news/gamenews/20150616/171606.shtml (from seiya.wanmei.com/news/gamenews/index27.htm)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/news/gamenews/20150602/171143.shtml
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/news/gamenews/20150602/171143.shtml (from seiya.wanmei.com/news/gamenews/index29.htm)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/news/gamenews/20150515/170459.shtml
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/news/gamenews/20150515/170459.shtml (from seiya.wanmei.com/news/gamenews/index30.htm)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/151112/10151447294542382.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/151112/10151447294542382.jpg (from seiya.wanmei.com/news/gamenews/20151112/177368.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/151111/10151447206237384.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/151111/10151447206237384.jpg (from seiya.wanmei.com/news/gamenews/20151111/177315.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/151106/10151446788263125.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/151106/10151446788263125.jpg (from seiya.wanmei.com/news/gamenews/20151106/177082.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/151104/10151446606722679.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/151104/10151446606722679.jpg (from seiya.wanmei.com/news/gamenews/20151104/176954.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/151030/10151446173410230.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/151030/10151446173410230.jpg (from seiya.wanmei.com/news/gamenews/20151030/176740.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/151030/10151446173005616.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/151030/10151446173005616.jpg (from seiya.wanmei.com/news/gamenews/20151030/176729.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/151030/10151446173007252.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/151030/10151446173007252.jpg (from seiya.wanmei.com/news/gamenews/20151030/176729.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/151027/10151445933483907.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/151027/10151445933483907.jpg (from seiya.wanmei.com/news/gamenews/20151027/176571.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/151022/10151445484917664.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/151022/10151445484917664.jpg (from seiya.wanmei.com/news/gamenews/20151022/176347.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/151022/10151445481280156.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/151022/10151445481280156.jpg (from seiya.wanmei.com/news/gamenews/20151022/176336.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/151019/10151445222964610.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/151019/10151445222964610.jpg (from seiya.wanmei.com/news/gamenews/20151019/176158.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/151015/10151444905926767.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/151015/10151444905926767.jpg (from seiya.wanmei.com/news/gamenews/20151015/176071.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/151015/10151444905929550.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/151015/10151444905929550.jpg (from seiya.wanmei.com/news/gamenews/20151015/176071.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: https://sd.games.wanmei.com/resources/jpg/151015/10211444878051020.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link https://sd.games.wanmei.com/resources/jpg/151015/10211444878051020.jpg (from seiya.wanmei.com/news/gamenews/20151015/176042.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: https://sd.games.wanmei.com/resources/jpg/151015/10211444878051185.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link https://sd.games.wanmei.com/resources/jpg/151015/10211444878051185.jpg (from seiya.wanmei.com/news/gamenews/20151015/176042.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: https://sd.games.wanmei.com/resources/jpg/151015/10211444878051345.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link https://sd.games.wanmei.com/resources/jpg/151015/10211444878051345.jpg (from seiya.wanmei.com/news/gamenews/20151015/176042.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: https://sd.games.wanmei.com/resources/jpg/151015/10211444878051520.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link https://sd.games.wanmei.com/resources/jpg/151015/10211444878051520.jpg (from seiya.wanmei.com/news/gamenews/20151015/176042.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: https://sd.games.wanmei.com/resources/jpg/151015/10211444878051676.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link https://sd.games.wanmei.com/resources/jpg/151015/10211444878051676.jpg (from seiya.wanmei.com/news/gamenews/20151015/176042.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/151012/10151444625647560.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/151012/10151444625647560.jpg (from seiya.wanmei.com/news/gamenews/20151012/175851.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/151012/10151444625650686.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/151012/10151444625650686.jpg (from seiya.wanmei.com/news/gamenews/20151012/175851.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/151008/10151444305837857.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/151008/10151444305837857.jpg (from seiya.wanmei.com/news/gamenews/20151008/175730.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/151008/10151444305838556.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/151008/10151444305838556.jpg (from seiya.wanmei.com/news/gamenews/20151008/175730.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/151008/10151444305839118.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/151008/10151444305839118.jpg (from seiya.wanmei.com/news/gamenews/20151008/175730.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/151008/10151444305839665.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/151008/10151444305839665.jpg (from seiya.wanmei.com/news/gamenews/20151008/175730.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/151008/10151444305840226.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/151008/10151444305840226.jpg (from seiya.wanmei.com/news/gamenews/20151008/175730.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/151008/10151444305840725.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/151008/10151444305840725.jpg (from seiya.wanmei.com/news/gamenews/20151008/175730.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/151008/10151444268450953.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/151008/10151444268450953.jpg (from seiya.wanmei.com/news/gamenews/20151008/175695.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/151008/10151444268451907.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/151008/10151444268451907.jpg (from seiya.wanmei.com/news/gamenews/20151008/175695.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/151008/10151444268452606.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/151008/10151444268452606.jpg (from seiya.wanmei.com/news/gamenews/20151008/175695.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/151008/10151444268453344.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/151008/10151444268453344.jpg (from seiya.wanmei.com/news/gamenews/20151008/175695.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/151008/10151444268453917.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/151008/10151444268453917.jpg (from seiya.wanmei.com/news/gamenews/20151008/175695.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/151008/10151444268454402.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/151008/10151444268454402.jpg (from seiya.wanmei.com/news/gamenews/20151008/175695.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/news/gamenews/20150930/175659.shtml
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/news/gamenews/20150930/175659.shtml (from seiya.wanmei.com/news/gamenews/index16.htm)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150929/10151443513743311.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150929/10151443513743311.jpg (from seiya.wanmei.com/news/gamenews/20150929/175574.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150929/10151443491236400.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150929/10151443491236400.jpg (from seiya.wanmei.com/news/gamenews/20150929/175574.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150929/10151443491237385.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150929/10151443491237385.jpg (from seiya.wanmei.com/news/gamenews/20150929/175574.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150929/10151443491237915.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150929/10151443491237915.jpg (from seiya.wanmei.com/news/gamenews/20150929/175574.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150928/10151443406460552.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150928/10151443406460552.jpg (from seiya.wanmei.com/news/gamenews/20150928/175549.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150928/10151443406461575.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150928/10151443406461575.jpg (from seiya.wanmei.com/news/gamenews/20150928/175549.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150928/10151443406462186.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150928/10151443406462186.jpg (from seiya.wanmei.com/news/gamenews/20150928/175549.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150928/10151443406462684.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150928/10151443406462684.jpg (from seiya.wanmei.com/news/gamenews/20150928/175549.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150925/10151443145950889.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150925/10151443145950889.jpg (from seiya.wanmei.com/news/gamenews/20150925/175473.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150925/10151443145951616.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150925/10151443145951616.jpg (from seiya.wanmei.com/news/gamenews/20150925/175473.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150925/10151443145952556.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150925/10151443145952556.jpg (from seiya.wanmei.com/news/gamenews/20150925/175473.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150925/10151443145953005.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150925/10151443145953005.jpg (from seiya.wanmei.com/news/gamenews/20150925/175473.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150925/10151443145953417.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150925/10151443145953417.jpg (from seiya.wanmei.com/news/gamenews/20150925/175473.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/news/gamenews/20150924/175454.shtml
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/news/gamenews/20150924/175454.shtml (from seiya.wanmei.com/news/gamenews/index16.htm)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150923/10151442998680994.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150923/10151442998680994.jpg (from seiya.wanmei.com/news/gamenews/20150923/175429.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150923/10151442998681452.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150923/10151442998681452.jpg (from seiya.wanmei.com/news/gamenews/20150923/175429.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150921/10151442814540813.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150921/10151442814540813.jpg (from seiya.wanmei.com/news/gamenews/20150921/175331.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150921/10151442814541239.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150921/10151442814541239.jpg (from seiya.wanmei.com/news/gamenews/20150921/175331.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150921/10151442814542144.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150921/10151442814542144.jpg (from seiya.wanmei.com/news/gamenews/20150921/175331.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150921/10151442814542596.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150921/10151442814542596.jpg (from seiya.wanmei.com/news/gamenews/20150921/175331.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150921/10151442814543129.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150921/10151442814543129.jpg (from seiya.wanmei.com/news/gamenews/20150921/175331.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/news/gamenews/20150917/175247.shtml
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/news/gamenews/20150917/175247.shtml (from seiya.wanmei.com/news/gamenews/index17.htm)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150917/10151442468072109.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150917/10151442468072109.jpg (from seiya.wanmei.com/news/gamenews/20150917/175245.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150917/10151442468073577.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150917/10151442468073577.jpg (from seiya.wanmei.com/news/gamenews/20150917/175245.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150917/10151442468074380.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150917/10151442468074380.jpg (from seiya.wanmei.com/news/gamenews/20150917/175245.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150917/10151442467598930.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150917/10151442467598930.jpg (from seiya.wanmei.com/news/gamenews/20150917/175242.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150917/10151442467599463.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150917/10151442467599463.jpg (from seiya.wanmei.com/news/gamenews/20150917/175242.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150917/10151442467600036.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150917/10151442467600036.jpg (from seiya.wanmei.com/news/gamenews/20150917/175242.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150914/10151442209331986.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150914/10151442209331986.jpg (from seiya.wanmei.com/news/gamenews/20150914/175122.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150914/10151442209332929.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150914/10151442209332929.jpg (from seiya.wanmei.com/news/gamenews/20150914/175122.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150914/10151442209334035.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150914/10151442209334035.jpg (from seiya.wanmei.com/news/gamenews/20150914/175122.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150914/10151442209335759.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150914/10151442209335759.jpg (from seiya.wanmei.com/news/gamenews/20150914/175122.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150914/10151442207740209.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150914/10151442207740209.jpg (from seiya.wanmei.com/news/gamenews/20150914/175120.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150914/10151442207741073.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150914/10151442207741073.jpg (from seiya.wanmei.com/news/gamenews/20150914/175120.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150914/10151442207741562.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150914/10151442207741562.jpg (from seiya.wanmei.com/news/gamenews/20150914/175120.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150914/10151442196823810.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150914/10151442196823810.jpg (from seiya.wanmei.com/news/gamenews/20150914/175107.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150914/10151442196824684.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150914/10151442196824684.jpg (from seiya.wanmei.com/news/gamenews/20150914/175107.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150914/10151442196826934.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150914/10151442196826934.jpg (from seiya.wanmei.com/news/gamenews/20150914/175107.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150910/10151441852312693.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150910/10151441852312693.jpg (from seiya.wanmei.com/news/gamenews/20150910/175013.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150910/10151441852313391.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150910/10151441852313391.jpg (from seiya.wanmei.com/news/gamenews/20150910/175013.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150910/10151441852313841.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150910/10151441852313841.jpg (from seiya.wanmei.com/news/gamenews/20150910/175013.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150910/10151441851178720.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150910/10151441851178720.jpg (from seiya.wanmei.com/news/gamenews/20150910/175007.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150910/10151441851179531.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150910/10151441851179531.jpg (from seiya.wanmei.com/news/gamenews/20150910/175007.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150910/10151441851180357.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150910/10151441851180357.jpg (from seiya.wanmei.com/news/gamenews/20150910/175007.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150910/10151441851181090.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150910/10151441851181090.jpg (from seiya.wanmei.com/news/gamenews/20150910/175007.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150910/10151441851182324.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150910/10151441851182324.jpg (from seiya.wanmei.com/news/gamenews/20150910/175007.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150907/10151441595114183.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150907/10151441595114183.jpg (from seiya.wanmei.com/news/gamenews/20150907/174891.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150907/10151441595114937.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150907/10151441595114937.jpg (from seiya.wanmei.com/news/gamenews/20150907/174891.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150907/10151441595115762.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150907/10151441595115762.jpg (from seiya.wanmei.com/news/gamenews/20150907/174891.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150906/10151441509806310.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150906/10151441509806310.jpg (from seiya.wanmei.com/news/gamenews/20150906/174858.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150906/10151441509806958.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150906/10151441509806958.jpg (from seiya.wanmei.com/news/gamenews/20150906/174858.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150906/10151441509807650.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150906/10151441509807650.jpg (from seiya.wanmei.com/news/gamenews/20150906/174858.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150906/10151441509808389.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150906/10151441509808389.jpg (from seiya.wanmei.com/news/gamenews/20150906/174858.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150906/10151441509338870.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150906/10151441509338870.jpg (from seiya.wanmei.com/news/gamenews/20150906/174855.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150906/10151441509339489.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150906/10151441509339489.jpg (from seiya.wanmei.com/news/gamenews/20150906/174855.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150902/10151441162146859.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150902/10151441162146859.jpg (from seiya.wanmei.com/news/gamenews/20150902/174801.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150902/10151441162147506.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150902/10151441162147506.jpg (from seiya.wanmei.com/news/gamenews/20150902/174801.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/png/150902/10151441162148892.png
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/png/150902/10151441162148892.png (from seiya.wanmei.com/news/gamenews/20150902/174801.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150831/10151440988749021.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150831/10151440988749021.jpg (from seiya.wanmei.com/news/gamenews/20150831/174713.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150831/10151440988749786.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150831/10151440988749786.jpg (from seiya.wanmei.com/news/gamenews/20150831/174713.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150831/10151440988751877.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150831/10151440988751877.jpg (from seiya.wanmei.com/news/gamenews/20150831/174713.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150828/10151440729560807.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150828/10151440729560807.jpg (from seiya.wanmei.com/news/gamenews/20150828/174653.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150828/10151440731529452.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150828/10151440731529452.jpg (from seiya.wanmei.com/news/gamenews/20150828/174653.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150828/10151440731531794.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150828/10151440731531794.jpg (from seiya.wanmei.com/news/gamenews/20150828/174653.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150828/10151440729564210.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150828/10151440729564210.jpg (from seiya.wanmei.com/news/gamenews/20150828/174653.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150826/10151440582971949.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150826/10151440582971949.jpg (from seiya.wanmei.com/news/gamenews/20150826/174575.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150826/10151440582973498.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150826/10151440582973498.jpg (from seiya.wanmei.com/news/gamenews/20150826/174575.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150826/10151440582974241.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150826/10151440582974241.jpg (from seiya.wanmei.com/news/gamenews/20150826/174575.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150825/10151440469462256.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150825/10151440469462256.jpg (from seiya.wanmei.com/news/gamenews/20150825/174475.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150825/10151440469462941.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150825/10151440469462941.jpg (from seiya.wanmei.com/news/gamenews/20150825/174475.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/150825/10151440469463719.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/150825/10151440469463719.jpg (from seiya.wanmei.com/news/gamenews/20150825/174475.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140126/10151390716563770.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140126/10151390716563770.jpg (from seiya.wanmei.com/news/gamenews/20140126/156584.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140126/10151390716450387.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140126/10151390716450387.jpg (from seiya.wanmei.com/news/gamenews/20140126/156583.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140128/10151390881674027.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140128/10151390881674027.jpg (from seiya.wanmei.com/news/gamenews/20140128/156684.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140128/10151390881674234.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140128/10151390881674234.jpg (from seiya.wanmei.com/news/gamenews/20140128/156684.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140128/10151390881674441.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140128/10151390881674441.jpg (from seiya.wanmei.com/news/gamenews/20140128/156684.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140128/10151390881674858.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140128/10151390881674858.jpg (from seiya.wanmei.com/news/gamenews/20140128/156684.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140128/10151390881223572.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140128/10151390881223572.jpg (from seiya.wanmei.com/news/gamenews/20140128/156683.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140127/10151390790600043.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140127/10151390790600043.jpg (from seiya.wanmei.com/news/gamenews/20140127/156624.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140127/10151390790722104.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140127/10151390790722104.jpg (from seiya.wanmei.com/news/gamenews/20140127/156624.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140314/10151394786056023.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140314/10151394786056023.jpg (from seiya.wanmei.com/news/gamenews/20140314/157582.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140314/10151394786056198.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140314/10151394786056198.jpg (from seiya.wanmei.com/news/gamenews/20140314/157582.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140314/10151394786055372.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140314/10151394786055372.jpg (from seiya.wanmei.com/news/gamenews/20140314/157582.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140314/10151394782262799.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140314/10151394782262799.jpg (from seiya.wanmei.com/news/gamenews/20140314/157578.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140314/10151394782263031.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140314/10151394782263031.jpg (from seiya.wanmei.com/news/gamenews/20140314/157578.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140314/10151394782263439.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140314/10151394782263439.jpg (from seiya.wanmei.com/news/gamenews/20140314/157578.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140314/10151394782263631.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140314/10151394782263631.jpg (from seiya.wanmei.com/news/gamenews/20140314/157578.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140314/10151394782264039.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140314/10151394782264039.jpg (from seiya.wanmei.com/news/gamenews/20140314/157578.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140314/10151394777542873.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140314/10151394777542873.jpg (from seiya.wanmei.com/news/gamenews/20140314/157569.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140314/10151394777543046.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140314/10151394777543046.jpg (from seiya.wanmei.com/news/gamenews/20140314/157569.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140314/10151394777543453.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140314/10151394777543453.jpg (from seiya.wanmei.com/news/gamenews/20140314/157569.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140314/10151394777543657.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140314/10151394777543657.jpg (from seiya.wanmei.com/news/gamenews/20140314/157569.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140314/10151394777543985.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140314/10151394777543985.jpg (from seiya.wanmei.com/news/gamenews/20140314/157569.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140314/10151394777544156.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140314/10151394777544156.jpg (from seiya.wanmei.com/news/gamenews/20140314/157569.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140314/10151394777544484.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140314/10151394777544484.jpg (from seiya.wanmei.com/news/gamenews/20140314/157569.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140314/10151394777544689.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140314/10151394777544689.jpg (from seiya.wanmei.com/news/gamenews/20140314/157569.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140314/10151394777545016.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140314/10151394777545016.jpg (from seiya.wanmei.com/news/gamenews/20140314/157569.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140314/10151394777545218.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140314/10151394777545218.jpg (from seiya.wanmei.com/news/gamenews/20140314/157569.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140314/10151394777542158.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140314/10151394777542158.jpg (from seiya.wanmei.com/news/gamenews/20140314/157569.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140313/10151394690874120.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140313/10151394690874120.jpg (from seiya.wanmei.com/news/gamenews/20140313/157529.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140313/10151394690874326.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140313/10151394690874326.jpg (from seiya.wanmei.com/news/gamenews/20140313/157529.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140313/10151394690874657.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140313/10151394690874657.jpg (from seiya.wanmei.com/news/gamenews/20140313/157529.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140313/10151394690875103.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140313/10151394690875103.jpg (from seiya.wanmei.com/news/gamenews/20140313/157529.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140313/10151394690873596.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140313/10151394690873596.jpg (from seiya.wanmei.com/news/gamenews/20140313/157529.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140313/10151394683902875.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140313/10151394683902875.jpg (from seiya.wanmei.com/news/gamenews/20140313/157522.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140313/10151394683903130.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140313/10151394683903130.jpg (from seiya.wanmei.com/news/gamenews/20140313/157522.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140313/10151394683903780.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140313/10151394683903780.jpg (from seiya.wanmei.com/news/gamenews/20140313/157522.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140313/10151394683901835.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140313/10151394683901835.jpg (from seiya.wanmei.com/news/gamenews/20140313/157522.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140310/10151394437504523.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140310/10151394437504523.jpg (from seiya.wanmei.com/news/gamenews/20140310/157417.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140307/10151394179742928.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140307/10151394179742928.jpg (from seiya.wanmei.com/news/gamenews/20140307/157392.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140307/10151394159702250.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140307/10151394159702250.jpg (from seiya.wanmei.com/news/gamenews/20140307/157359.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140227/10151393472691791.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140227/10151393472691791.jpg (from seiya.wanmei.com/news/gamenews/20140227/157183.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140226/10151393383771294.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140226/10151393383771294.jpg (from seiya.wanmei.com/news/gamenews/20140226/157144.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140221/10151392962236794.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140221/10151392962236794.jpg (from seiya.wanmei.com/news/gamenews/20140221/157048.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140220/10151392878979813.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140220/10151392878979813.jpg (from seiya.wanmei.com/news/gamenews/20140220/157015.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140220/10151392878980218.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140220/10151392878980218.jpg (from seiya.wanmei.com/news/gamenews/20140220/157015.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140220/10151392878788582.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140220/10151392878788582.jpg (from seiya.wanmei.com/news/gamenews/20140220/157014.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140218/10151392695617681.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140218/10151392695617681.jpg (from seiya.wanmei.com/news/gamenews/20140218/156948.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140211/10151392108076259.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140211/10151392108076259.jpg (from seiya.wanmei.com/news/gamenews/20140211/156779.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140211/10151392088823832.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140211/10151392088823832.jpg (from seiya.wanmei.com/news/gamenews/20140211/156765.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140210/10151392003126948.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140210/10151392003126948.jpg (from seiya.wanmei.com/news/gamenews/20140210/156745.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140126/10151390717852982.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140126/10151390717852982.jpg (from seiya.wanmei.com/news/gamenews/20140126/156593.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/140126/10151390717119381.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/140126/10151390717119381.jpg (from seiya.wanmei.com/news/gamenews/20140126/156588.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/news/gamebroad/20130820/148867.shtml
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/news/gamebroad/20130820/148867.shtml (from seiya.wanmei.com/news/gamebroad/index28.htm)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/png/160314/10151457951983169.png
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/png/160314/10151457951983169.png (from seiya.wanmei.com/nsrz/20160314/180187.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/160118/10151453111777537.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/160118/10151453111777537.jpg (from seiya.wanmei.com/nsrz/20160118/179437.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/160108/10151452244127811.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/160108/10151452244127811.jpg (from seiya.wanmei.com/news/gamebroad/20160108/179299.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/jpg/151224/10151450931796689.jpg
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/jpg/151224/10151450931796689.jpg (from seiya.wanmei.com/news/gamebroad/20151223/178986.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: seiya.wanmei.com/resources/png/151230/10151451447157873.png
+20:03:24	Error: 	"mirror stopped by user" (-1) at link seiya.wanmei.com/resources/png/151230/10151451447157873.png (from seiya.wanmei.com/nsrz/20151217/178794.shtml)
+20:03:24	Warning: 	File not added due to mirror cancel: 211.147.1.178/seiya.gif
+20:03:24	Error: 	"mirror stopped by user" (-1) at link 211.147.1.178/seiya.gif (from seiya.wanmei.com/weibo.htm)
+20:03:24	Warning: 	File not added due to mirror cancel: cookie.bi.wanmei.com/jsp/pvbi/wanmeibihd.js
+20:03:24	Error: 	"mirror stopped by user" (-1) at link cookie.bi.wanmei.com/jsp/pvbi/wanmeibihd.js (from seiya.wanmei.com/bbs/20110817/84459.shtml)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 hours 29 minutes 15 seconds : 5082 links scanned, 4640 files written (544718833 bytes overall) [525278062 bytes received at 22491 bytes/sec], 32589168 bytes transferred using HTTP compression in 1729 files, ratio 32%, 2.8 requests per connection
+(179 errors, 437 warnings, 0 messages)
